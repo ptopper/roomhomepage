@@ -50,7 +50,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- github - [Add your name here](https://github.com/ptopper)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/ptopper)
+- github - https://github.com/ptopper
+- Frontend Mentor - https://www.frontendmentor.io/profile/ptopper
 
 
