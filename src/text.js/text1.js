@@ -1,4 +1,4 @@
-import {React,useState} from "react";
+import {React} from "react";
 import rightArrow from '../images/icon-arrow.svg'
 
 export default function Text1({currentIndex}){
